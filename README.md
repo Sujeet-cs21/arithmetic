@@ -12,3 +12,6 @@ Task 3:
 
 Task 4:
     -added multi method to feature-multi branch
+
+Task 5:
+    -added divide method to feature-divide branch
