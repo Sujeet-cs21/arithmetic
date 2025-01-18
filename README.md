@@ -9,3 +9,6 @@ Task 2:
 
 Task 3:
     -added sub method to feature-sub branch
+
+Task 4:
+    -added multi method to feature-multi branch
